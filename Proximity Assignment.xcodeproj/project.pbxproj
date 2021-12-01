@@ -1,0 +1,811 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 53;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		8A2171A0274D6A3300A2D83D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A21719F274D6A3300A2D83D /* AppDelegate.swift */; };
+		8A2171A2274D6A3300A2D83D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A2171A1274D6A3300A2D83D /* SceneDelegate.swift */; };
+		8A2171A4274D6A3300A2D83D /* AQIViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A2171A3274D6A3300A2D83D /* AQIViewController.swift */; };
+		8A2171A7274D6A3300A2D83D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8A2171A5274D6A3300A2D83D /* Main.storyboard */; };
+		8A2171A9274D6A3700A2D83D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8A2171A8274D6A3700A2D83D /* Assets.xcassets */; };
+		8A2171AC274D6A3700A2D83D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8A2171AA274D6A3700A2D83D /* LaunchScreen.storyboard */; };
+		8A2171B7274D6A3700A2D83D /* Proximity_AssignmentTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A2171B6274D6A3700A2D83D /* Proximity_AssignmentTests.swift */; };
+		8A2171C1274D6A3700A2D83D /* Proximity_AssignmentUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A2171C0274D6A3700A2D83D /* Proximity_AssignmentUITests.swift */; };
+		8A2171C3274D6A3700A2D83D /* Proximity_AssignmentUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A2171C2274D6A3700A2D83D /* Proximity_AssignmentUITestsLaunchTests.swift */; };
+		8A2171D0274D71D700A2D83D /* AqiInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A2171CF274D71D700A2D83D /* AqiInfo.swift */; };
+		8A2171D2274D736500A2D83D /* DataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A2171D1274D736500A2D83D /* DataManager.swift */; };
+		8AAC48C92752BBEE0056D534 /* AQIViewModal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AAC48C82752BBEE0056D534 /* AQIViewModal.swift */; };
+		8AAE8E0E275174D1001A9875 /* AQICell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AAE8E0D275174D1001A9875 /* AQICell.swift */; };
+		8AAE8E10275181BC001A9875 /* AQITableDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AAE8E0F275181BC001A9875 /* AQITableDelegate.swift */; };
+		8AAE8E12275182B2001A9875 /* AQITableDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AAE8E11275182B2001A9875 /* AQITableDataSource.swift */; };
+		8ACB211B2757BC1000D1A723 /* CityAQI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ACB211A2757BC1000D1A723 /* CityAQI.swift */; };
+		8ACB211D2757BC5700D1A723 /* Utility.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ACB211C2757BC5700D1A723 /* Utility.swift */; };
+		8ACB211F2757BD5E00D1A723 /* CityAQIController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ACB211E2757BD5E00D1A723 /* CityAQIController.swift */; };
+		8ACB21212757CF9F00D1A723 /* CityViewModal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ACB21202757CF9F00D1A723 /* CityViewModal.swift */; };
+		8ACB21232757D9AD00D1A723 /* AQIChart.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ACB21222757D9AD00D1A723 /* AQIChart.swift */; };
+		9E680B7481729EDCD23E5150 /* Pods_Proximity_Assignment.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 489BC98C82C0D44680A1F0ED /* Pods_Proximity_Assignment.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		8A2171B3274D6A3700A2D83D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 8A217194274D6A3300A2D83D /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 8A21719B274D6A3300A2D83D;
+			remoteInfo = "Proximity Assignment";
+		};
+		8A2171BD274D6A3700A2D83D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 8A217194274D6A3300A2D83D /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 8A21719B274D6A3300A2D83D;
+			remoteInfo = "Proximity Assignment";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		28E649DBB6A55413F38B9D4D /* Pods-Proximity Assignment.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Proximity Assignment.release.xcconfig"; path = "Target Support Files/Pods-Proximity Assignment/Pods-Proximity Assignment.release.xcconfig"; sourceTree = "<group>"; };
+		489BC98C82C0D44680A1F0ED /* Pods_Proximity_Assignment.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Proximity_Assignment.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		8A21719C274D6A3300A2D83D /* Proximity Assignment.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Proximity Assignment.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8A21719F274D6A3300A2D83D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		8A2171A1274D6A3300A2D83D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		8A2171A3274D6A3300A2D83D /* AQIViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AQIViewController.swift; sourceTree = "<group>"; };
+		8A2171A6274D6A3300A2D83D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		8A2171A8274D6A3700A2D83D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		8A2171AB274D6A3700A2D83D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		8A2171AD274D6A3700A2D83D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8A2171B2274D6A3700A2D83D /* Proximity AssignmentTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Proximity AssignmentTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8A2171B6274D6A3700A2D83D /* Proximity_AssignmentTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Proximity_AssignmentTests.swift; sourceTree = "<group>"; };
+		8A2171BC274D6A3700A2D83D /* Proximity AssignmentUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Proximity AssignmentUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8A2171C0274D6A3700A2D83D /* Proximity_AssignmentUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Proximity_AssignmentUITests.swift; sourceTree = "<group>"; };
+		8A2171C2274D6A3700A2D83D /* Proximity_AssignmentUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Proximity_AssignmentUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		8A2171CF274D71D700A2D83D /* AqiInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AqiInfo.swift; sourceTree = "<group>"; };
+		8A2171D1274D736500A2D83D /* DataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataManager.swift; sourceTree = "<group>"; };
+		8AAC48C82752BBEE0056D534 /* AQIViewModal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AQIViewModal.swift; sourceTree = "<group>"; };
+		8AAE8E0D275174D1001A9875 /* AQICell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AQICell.swift; sourceTree = "<group>"; };
+		8AAE8E0F275181BC001A9875 /* AQITableDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AQITableDelegate.swift; sourceTree = "<group>"; };
+		8AAE8E11275182B2001A9875 /* AQITableDataSource.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AQITableDataSource.swift; sourceTree = "<group>"; };
+		8ACB211A2757BC1000D1A723 /* CityAQI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CityAQI.swift; sourceTree = "<group>"; };
+		8ACB211C2757BC5700D1A723 /* Utility.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utility.swift; sourceTree = "<group>"; };
+		8ACB211E2757BD5E00D1A723 /* CityAQIController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CityAQIController.swift; sourceTree = "<group>"; };
+		8ACB21202757CF9F00D1A723 /* CityViewModal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CityViewModal.swift; sourceTree = "<group>"; };
+		8ACB21222757D9AD00D1A723 /* AQIChart.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AQIChart.swift; sourceTree = "<group>"; };
+		F0A771503FBADCC95C83290C /* Pods-Proximity Assignment.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Proximity Assignment.debug.xcconfig"; path = "Target Support Files/Pods-Proximity Assignment/Pods-Proximity Assignment.debug.xcconfig"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8A217199274D6A3300A2D83D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9E680B7481729EDCD23E5150 /* Pods_Proximity_Assignment.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8A2171AF274D6A3700A2D83D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8A2171B9274D6A3700A2D83D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		86C3E8AE2289F036CB269807 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				F0A771503FBADCC95C83290C /* Pods-Proximity Assignment.debug.xcconfig */,
+				28E649DBB6A55413F38B9D4D /* Pods-Proximity Assignment.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		8A217193274D6A3300A2D83D = {
+			isa = PBXGroup;
+			children = (
+				8A21719E274D6A3300A2D83D /* Proximity Assignment */,
+				8A2171B5274D6A3700A2D83D /* Proximity AssignmentTests */,
+				8A2171BF274D6A3700A2D83D /* Proximity AssignmentUITests */,
+				8A21719D274D6A3300A2D83D /* Products */,
+				86C3E8AE2289F036CB269807 /* Pods */,
+				F6675E0F1A89686D70041F10 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		8A21719D274D6A3300A2D83D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8A21719C274D6A3300A2D83D /* Proximity Assignment.app */,
+				8A2171B2274D6A3700A2D83D /* Proximity AssignmentTests.xctest */,
+				8A2171BC274D6A3700A2D83D /* Proximity AssignmentUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		8A21719E274D6A3300A2D83D /* Proximity Assignment */ = {
+			isa = PBXGroup;
+			children = (
+				8A21719F274D6A3300A2D83D /* AppDelegate.swift */,
+				8A2171A1274D6A3300A2D83D /* SceneDelegate.swift */,
+				8ACB21162757B94200D1A723 /* AQI Chart */,
+				8ACB21132757B8D600D1A723 /* AQI Table */,
+				8AAC48C72752BB5D0056D534 /* Helper */,
+				8A2171A5274D6A3300A2D83D /* Main.storyboard */,
+				8A2171A8274D6A3700A2D83D /* Assets.xcassets */,
+				8A2171AA274D6A3700A2D83D /* LaunchScreen.storyboard */,
+				8A2171AD274D6A3700A2D83D /* Info.plist */,
+			);
+			path = "Proximity Assignment";
+			sourceTree = "<group>";
+		};
+		8A2171B5274D6A3700A2D83D /* Proximity AssignmentTests */ = {
+			isa = PBXGroup;
+			children = (
+				8A2171B6274D6A3700A2D83D /* Proximity_AssignmentTests.swift */,
+			);
+			path = "Proximity AssignmentTests";
+			sourceTree = "<group>";
+		};
+		8A2171BF274D6A3700A2D83D /* Proximity AssignmentUITests */ = {
+			isa = PBXGroup;
+			children = (
+				8A2171C0274D6A3700A2D83D /* Proximity_AssignmentUITests.swift */,
+				8A2171C2274D6A3700A2D83D /* Proximity_AssignmentUITestsLaunchTests.swift */,
+			);
+			path = "Proximity AssignmentUITests";
+			sourceTree = "<group>";
+		};
+		8AAC48C62752BB500056D534 /* Modal */ = {
+			isa = PBXGroup;
+			children = (
+				8A2171CF274D71D700A2D83D /* AqiInfo.swift */,
+			);
+			path = Modal;
+			sourceTree = "<group>";
+		};
+		8AAC48C72752BB5D0056D534 /* Helper */ = {
+			isa = PBXGroup;
+			children = (
+				8A2171D1274D736500A2D83D /* DataManager.swift */,
+				8ACB211C2757BC5700D1A723 /* Utility.swift */,
+			);
+			path = Helper;
+			sourceTree = "<group>";
+		};
+		8ACB21132757B8D600D1A723 /* AQI Table */ = {
+			isa = PBXGroup;
+			children = (
+				8ACB21152757B92800D1A723 /* ViewModal */,
+				8AAC48C62752BB500056D534 /* Modal */,
+				8ACB21142757B8FE00D1A723 /* View */,
+			);
+			path = "AQI Table";
+			sourceTree = "<group>";
+		};
+		8ACB21142757B8FE00D1A723 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				8A2171A3274D6A3300A2D83D /* AQIViewController.swift */,
+				8AAE8E11275182B2001A9875 /* AQITableDataSource.swift */,
+				8AAE8E0F275181BC001A9875 /* AQITableDelegate.swift */,
+				8AAE8E0D275174D1001A9875 /* AQICell.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		8ACB21152757B92800D1A723 /* ViewModal */ = {
+			isa = PBXGroup;
+			children = (
+				8AAC48C82752BBEE0056D534 /* AQIViewModal.swift */,
+			);
+			path = ViewModal;
+			sourceTree = "<group>";
+		};
+		8ACB21162757B94200D1A723 /* AQI Chart */ = {
+			isa = PBXGroup;
+			children = (
+				8ACB21172757B96900D1A723 /* ViewModal */,
+				8ACB21182757B97500D1A723 /* Modal */,
+				8ACB21192757B97900D1A723 /* View */,
+			);
+			path = "AQI Chart";
+			sourceTree = "<group>";
+		};
+		8ACB21172757B96900D1A723 /* ViewModal */ = {
+			isa = PBXGroup;
+			children = (
+				8ACB21202757CF9F00D1A723 /* CityViewModal.swift */,
+			);
+			path = ViewModal;
+			sourceTree = "<group>";
+		};
+		8ACB21182757B97500D1A723 /* Modal */ = {
+			isa = PBXGroup;
+			children = (
+				8ACB211A2757BC1000D1A723 /* CityAQI.swift */,
+			);
+			path = Modal;
+			sourceTree = "<group>";
+		};
+		8ACB21192757B97900D1A723 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				8ACB211E2757BD5E00D1A723 /* CityAQIController.swift */,
+				8ACB21222757D9AD00D1A723 /* AQIChart.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		F6675E0F1A89686D70041F10 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				489BC98C82C0D44680A1F0ED /* Pods_Proximity_Assignment.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8A21719B274D6A3300A2D83D /* Proximity Assignment */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8A2171C6274D6A3700A2D83D /* Build configuration list for PBXNativeTarget "Proximity Assignment" */;
+			buildPhases = (
+				7B2272E4880CC4B0613B7925 /* [CP] Check Pods Manifest.lock */,
+				8A217198274D6A3300A2D83D /* Sources */,
+				8A217199274D6A3300A2D83D /* Frameworks */,
+				8A21719A274D6A3300A2D83D /* Resources */,
+				C2DF83FEEAE6DEE6BE7DB763 /* [CP] Embed Pods Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Proximity Assignment";
+			productName = "Proximity Assignment";
+			productReference = 8A21719C274D6A3300A2D83D /* Proximity Assignment.app */;
+			productType = "com.apple.product-type.application";
+		};
+		8A2171B1274D6A3700A2D83D /* Proximity AssignmentTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8A2171C9274D6A3700A2D83D /* Build configuration list for PBXNativeTarget "Proximity AssignmentTests" */;
+			buildPhases = (
+				8A2171AE274D6A3700A2D83D /* Sources */,
+				8A2171AF274D6A3700A2D83D /* Frameworks */,
+				8A2171B0274D6A3700A2D83D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				8A2171B4274D6A3700A2D83D /* PBXTargetDependency */,
+			);
+			name = "Proximity AssignmentTests";
+			productName = "Proximity AssignmentTests";
+			productReference = 8A2171B2274D6A3700A2D83D /* Proximity AssignmentTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		8A2171BB274D6A3700A2D83D /* Proximity AssignmentUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8A2171CC274D6A3700A2D83D /* Build configuration list for PBXNativeTarget "Proximity AssignmentUITests" */;
+			buildPhases = (
+				8A2171B8274D6A3700A2D83D /* Sources */,
+				8A2171B9274D6A3700A2D83D /* Frameworks */,
+				8A2171BA274D6A3700A2D83D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				8A2171BE274D6A3700A2D83D /* PBXTargetDependency */,
+			);
+			name = "Proximity AssignmentUITests";
+			productName = "Proximity AssignmentUITests";
+			productReference = 8A2171BC274D6A3700A2D83D /* Proximity AssignmentUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		8A217194274D6A3300A2D83D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1310;
+				LastUpgradeCheck = 1310;
+				TargetAttributes = {
+					8A21719B274D6A3300A2D83D = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					8A2171B1274D6A3700A2D83D = {
+						CreatedOnToolsVersion = 13.1;
+						TestTargetID = 8A21719B274D6A3300A2D83D;
+					};
+					8A2171BB274D6A3700A2D83D = {
+						CreatedOnToolsVersion = 13.1;
+						TestTargetID = 8A21719B274D6A3300A2D83D;
+					};
+				};
+			};
+			buildConfigurationList = 8A217197274D6A3300A2D83D /* Build configuration list for PBXProject "Proximity Assignment" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 8A217193274D6A3300A2D83D;
+			productRefGroup = 8A21719D274D6A3300A2D83D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8A21719B274D6A3300A2D83D /* Proximity Assignment */,
+				8A2171B1274D6A3700A2D83D /* Proximity AssignmentTests */,
+				8A2171BB274D6A3700A2D83D /* Proximity AssignmentUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8A21719A274D6A3300A2D83D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8A2171AC274D6A3700A2D83D /* LaunchScreen.storyboard in Resources */,
+				8A2171A9274D6A3700A2D83D /* Assets.xcassets in Resources */,
+				8A2171A7274D6A3300A2D83D /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8A2171B0274D6A3700A2D83D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8A2171BA274D6A3700A2D83D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		7B2272E4880CC4B0613B7925 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Proximity Assignment-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C2DF83FEEAE6DEE6BE7DB763 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Proximity Assignment/Pods-Proximity Assignment-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Proximity Assignment/Pods-Proximity Assignment-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Proximity Assignment/Pods-Proximity Assignment-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8A217198274D6A3300A2D83D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8A2171A4274D6A3300A2D83D /* AQIViewController.swift in Sources */,
+				8AAE8E12275182B2001A9875 /* AQITableDataSource.swift in Sources */,
+				8AAE8E0E275174D1001A9875 /* AQICell.swift in Sources */,
+				8ACB211D2757BC5700D1A723 /* Utility.swift in Sources */,
+				8ACB21232757D9AD00D1A723 /* AQIChart.swift in Sources */,
+				8A2171D2274D736500A2D83D /* DataManager.swift in Sources */,
+				8ACB211B2757BC1000D1A723 /* CityAQI.swift in Sources */,
+				8AAE8E10275181BC001A9875 /* AQITableDelegate.swift in Sources */,
+				8A2171A0274D6A3300A2D83D /* AppDelegate.swift in Sources */,
+				8ACB21212757CF9F00D1A723 /* CityViewModal.swift in Sources */,
+				8A2171D0274D71D700A2D83D /* AqiInfo.swift in Sources */,
+				8A2171A2274D6A3300A2D83D /* SceneDelegate.swift in Sources */,
+				8ACB211F2757BD5E00D1A723 /* CityAQIController.swift in Sources */,
+				8AAC48C92752BBEE0056D534 /* AQIViewModal.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8A2171AE274D6A3700A2D83D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8A2171B7274D6A3700A2D83D /* Proximity_AssignmentTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8A2171B8274D6A3700A2D83D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8A2171C1274D6A3700A2D83D /* Proximity_AssignmentUITests.swift in Sources */,
+				8A2171C3274D6A3700A2D83D /* Proximity_AssignmentUITestsLaunchTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		8A2171B4274D6A3700A2D83D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 8A21719B274D6A3300A2D83D /* Proximity Assignment */;
+			targetProxy = 8A2171B3274D6A3700A2D83D /* PBXContainerItemProxy */;
+		};
+		8A2171BE274D6A3700A2D83D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 8A21719B274D6A3300A2D83D /* Proximity Assignment */;
+			targetProxy = 8A2171BD274D6A3700A2D83D /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		8A2171A5274D6A3300A2D83D /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8A2171A6274D6A3300A2D83D /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		8A2171AA274D6A3700A2D83D /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8A2171AB274D6A3700A2D83D /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		8A2171C4274D6A3700A2D83D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		8A2171C5274D6A3700A2D83D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		8A2171C7274D6A3700A2D83D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = F0A771503FBADCC95C83290C /* Pods-Proximity Assignment.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Proximity Assignment/Info.plist";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.en.solutionware.mobility.Proximity-Assignment";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		8A2171C8274D6A3700A2D83D /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 28E649DBB6A55413F38B9D4D /* Pods-Proximity Assignment.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Proximity Assignment/Info.plist";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.en.solutionware.mobility.Proximity-Assignment";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		8A2171CA274D6A3700A2D83D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.en.solutionware.mobility.Proximity-AssignmentTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Proximity Assignment.app/Proximity Assignment";
+			};
+			name = Debug;
+		};
+		8A2171CB274D6A3700A2D83D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.en.solutionware.mobility.Proximity-AssignmentTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Proximity Assignment.app/Proximity Assignment";
+			};
+			name = Release;
+		};
+		8A2171CD274D6A3700A2D83D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.en.solutionware.mobility.Proximity-AssignmentUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Proximity Assignment";
+			};
+			name = Debug;
+		};
+		8A2171CE274D6A3700A2D83D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.en.solutionware.mobility.Proximity-AssignmentUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Proximity Assignment";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		8A217197274D6A3300A2D83D /* Build configuration list for PBXProject "Proximity Assignment" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8A2171C4274D6A3700A2D83D /* Debug */,
+				8A2171C5274D6A3700A2D83D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8A2171C6274D6A3700A2D83D /* Build configuration list for PBXNativeTarget "Proximity Assignment" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8A2171C7274D6A3700A2D83D /* Debug */,
+				8A2171C8274D6A3700A2D83D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8A2171C9274D6A3700A2D83D /* Build configuration list for PBXNativeTarget "Proximity AssignmentTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8A2171CA274D6A3700A2D83D /* Debug */,
+				8A2171CB274D6A3700A2D83D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8A2171CC274D6A3700A2D83D /* Build configuration list for PBXNativeTarget "Proximity AssignmentUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8A2171CD274D6A3700A2D83D /* Debug */,
+				8A2171CE274D6A3700A2D83D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 8A217194274D6A3300A2D83D /* Project object */;
+}

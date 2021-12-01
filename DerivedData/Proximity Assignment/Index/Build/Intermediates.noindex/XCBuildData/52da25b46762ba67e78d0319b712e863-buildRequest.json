@@ -1,0 +1,59 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "f51d63f0b394c452a4863947bc0aa4b49c19e4b4ba869adba517d362cd4e9822"
+    }
+  ],
+  "containerPath" : "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Proximity Assignment.xcworkspace",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator15.0",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/DerivedData/Proximity Assignment/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/DerivedData/Proximity Assignment/Index/Build/Products",
+      "derivedDataPath" : "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/DerivedData/Proximity Assignment/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/DerivedData/Proximity Assignment/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/DerivedData/Proximity Assignment/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/DerivedData/Proximity Assignment/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

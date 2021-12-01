@@ -1,0 +1,6 @@
+framework module XYChart {
+  umbrella header "XYChart-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,13 @@
+Target dependency graph (6 targets)
+Charts in Pods, no dependencies
+Pods-Proximity Assignment in Pods, depends on:
+Charts in Pods (explicit)
+Proximity Assignment in Proximity Assignment, depends on:
+Pods-Proximity Assignment in Pods (implicit dependency via file 'Pods_Proximity_Assignment.framework' in build phase 'Link Binary')
+Charts in Pods (implicit dependency via options '-framework Charts' in build setting 'OTHER_LDFLAGS')
+Charts in Pods, no dependencies
+Pods-Proximity Assignment in Pods, depends on:
+Charts in Pods (explicit)
+Proximity Assignment in Proximity Assignment, depends on:
+Pods-Proximity Assignment in Pods (implicit dependency via file 'Pods_Proximity_Assignment.framework' in build phase 'Link Binary')
+Charts in Pods (implicit dependency via options '-framework Charts' in build setting 'OTHER_LDFLAGS')

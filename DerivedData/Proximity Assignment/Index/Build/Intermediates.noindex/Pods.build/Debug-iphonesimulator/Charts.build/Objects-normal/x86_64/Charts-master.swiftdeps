@@ -1,0 +1,232 @@
+version: "Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)"
+options: "fa176ae26597a429326ae46122df1d5c23ade041360a794088ff9d9b72bd6af1"
+build_start_time: [1638379145, 742393016]
+build_end_time: [1638379149, 659883022]
+inputs:
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Animation/Animator.swift": [1638360425, 228418827]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Animation/ChartAnimationEasing.swift"
+  : [1638360425, 227993726]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Charts/BarChartView.swift": [1638360425, 226291656]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Charts/BarLineChartViewBase.swift"
+  : [1638360425, 223019599]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Charts/BubbleChartView.swift": [1638360425, 225349664]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Charts/CandleStickChartView.swift"
+  : [1638360425, 221940517]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Charts/ChartViewBase.swift": [1638360425, 224897861]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Charts/CombinedChartView.swift": [1638360425, 223936080]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Charts/HorizontalBarChartView.swift"
+  : [1638360425, 224395751]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Charts/LineChartView.swift": [1638360425, 223510742]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Charts/PieChartView.swift": [1638360425, 227128744]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Charts/PieRadarChartViewBase.swift"
+  : [1638360425, 225748777]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Charts/RadarChartView.swift": [1638360425, 222439289]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Charts/ScatterChartView.swift": [1638360425, 226704597]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Components/AxisBase.swift": [1638360425, 240302562]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Components/ChartLimitLine.swift": [1638360425, 241196870]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Components/ComponentBase.swift": [1638360425, 241876840]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Components/Description.swift": [1638360425, 238051891]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Components/IMarker.swift": [1638360425, 238500118]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Components/Legend.swift": [1638360425, 239323616]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Components/LegendEntry.swift": [1638360425, 239727258]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Components/MarkerImage.swift": [1638360425, 238893032]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Components/MarkerView.swift": [1638360425, 241534709]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Components/XAxis.swift": [1638360425, 240745782]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Components/YAxis.swift": [1638360425, 240015983]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Data/Implementations/ChartBaseDataSet.swift"
+  : [1638360425, 255637884]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Data/Implementations/Standard/BarChartData.swift"
+  : [1638360425, 254928112]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Data/Implementations/Standard/BarChartDataEntry.swift"
+  : [1638360425, 246016025]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Data/Implementations/Standard/BarChartDataSet.swift"
+  : [1638360425, 246397495]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Data/Implementations/Standard/BarLineScatterCandleBubbleChartData.swift"
+  : [1638360425, 249835491]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Data/Implementations/Standard/BarLineScatterCandleBubbleChartDataSet.swift"
+  : [1638360425, 247124433]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Data/Implementations/Standard/BubbleChartData.swift"
+  : [1638360425, 251556396]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Data/Implementations/Standard/BubbleChartDataEntry.swift"
+  : [1638360425, 250190973]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Data/Implementations/Standard/BubbleChartDataSet.swift"
+  : [1638360425, 254273414]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Data/Implementations/Standard/CandleChartData.swift"
+  : [1638360425, 253555774]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Data/Implementations/Standard/CandleChartDataEntry.swift"
+  : [1638360425, 247826814]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Data/Implementations/Standard/CandleChartDataSet.swift"
+  : [1638360425, 249102115]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Data/Implementations/Standard/ChartData.swift"
+  : [1638360425, 245307207]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Data/Implementations/Standard/ChartDataEntry.swift"
+  : [1638360425, 250845909]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Data/Implementations/Standard/ChartDataEntryBase.swift"
+  : [1638360425, 250515937]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Data/Implementations/Standard/ChartDataSet.swift"
+  : [1638360425, 251982212]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Data/Implementations/Standard/CombinedChartData.swift"
+  : [1638360425, 248141765]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Data/Implementations/Standard/LineChartData.swift"
+  : [1638360425, 248435974]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Data/Implementations/Standard/LineChartDataSet.swift"
+  : [1638360425, 253919124]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Data/Implementations/Standard/LineRadarChartDataSet.swift"
+  : [1638360425, 249408245]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Data/Implementations/Standard/LineScatterCandleRadarChartDataSet.swift"
+  : [1638360425, 255217790]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Data/Implementations/Standard/PieChartData.swift"
+  : [1638360425, 253166675]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Data/Implementations/Standard/PieChartDataEntry.swift"
+  : [1638360425, 247463941]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Data/Implementations/Standard/PieChartDataSet.swift"
+  : [1638360425, 251214742]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Data/Implementations/Standard/RadarChartData.swift"
+  : [1638360425, 248750686]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Data/Implementations/Standard/RadarChartDataEntry.swift"
+  : [1638360425, 246746301]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Data/Implementations/Standard/RadarChartDataSet.swift"
+  : [1638360425, 254608869]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Data/Implementations/Standard/ScatterChartData.swift"
+  : [1638360425, 252770900]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Data/Implementations/Standard/ScatterChartDataSet.swift"
+  : [1638360425, 252373218]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Data/Interfaces/IBarChartDataSet.swift"
+  : [1638360425, 257518291]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Data/Interfaces/IBarLineScatterCandleBubbleChartDataSet.swift"
+  : [1638360425, 259862899]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Data/Interfaces/IBubbleChartDataSet.swift"
+  : [1638360425, 259443759]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Data/Interfaces/ICandleChartDataSet.swift"
+  : [1638360425, 258788585]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Data/Interfaces/IChartDataSet.swift"
+  : [1638360425, 258370161]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Data/Interfaces/ILineChartDataSet.swift"
+  : [1638360425, 256865739]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Data/Interfaces/ILineRadarChartDataSet.swift"
+  : [1638360425, 257963657]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Data/Interfaces/ILineScatterCandleRadarChartDataSet.swift"
+  : [1638360425, 259098529]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Data/Interfaces/IPieChartDataSet.swift"
+  : [1638360425, 256213188]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Data/Interfaces/IRadarChartDataSet.swift"
+  : [1638360425, 257172107]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Data/Interfaces/IScatterChartDataSet.swift"
+  : [1638360425, 256568908]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Filters/DataApproximator+N.swift": [1638360425, 205406665]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Filters/DataApproximator.swift": [1638360425, 205038070]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Formatters/DefaultAxisValueFormatter.swift"
+  : [1638360425, 230394840]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Formatters/DefaultFillFormatter.swift"
+  : [1638360425, 229611396]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Formatters/DefaultValueFormatter.swift"
+  : [1638360425, 229976654]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Formatters/IAxisValueFormatter.swift"
+  : [1638360425, 229239463]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Formatters/IFillFormatter.swift": [1638360425, 231288909]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Formatters/IValueFormatter.swift": [1638360425, 231681823]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Formatters/IndexAxisValueFormatter.swift"
+  : [1638360425, 230869770]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Highlight/BarHighlighter.swift": [1638360425, 217522144]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Highlight/ChartHighlighter.swift": [1638360425, 220384597]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Highlight/CombinedHighlighter.swift"
+  : [1638360425, 221159458]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Highlight/Highlight.swift": [1638360425, 218398094]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Highlight/HorizontalBarHighlighter.swift"
+  : [1638360425, 219239234]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Highlight/IHighlighter.swift": [1638360425, 220790386]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Highlight/PieHighlighter.swift": [1638360425, 218874931]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Highlight/PieRadarHighlighter.swift"
+  : [1638360425, 219617843]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Highlight/RadarHighlighter.swift": [1638360425, 217984676]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Highlight/Range.swift": [1638360425, 219971895]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Interfaces/BarChartDataProvider.swift"
+  : [1638360425, 260658264]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Interfaces/BarLineScatterCandleBubbleChartDataProvider.swift"
+  : [1638360425, 262663125]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Interfaces/BubbleChartDataProvider.swift"
+  : [1638360425, 263662338]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Interfaces/CandleChartDataProvider.swift"
+  : [1638360425, 261443614]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Interfaces/ChartDataProvider.swift"
+  : [1638360425, 261054515]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Interfaces/CombinedChartDataProvider.swift"
+  : [1638360425, 261851310]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Interfaces/LineChartDataProvider.swift"
+  : [1638360425, 262266397]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Interfaces/ScatterChartDataProvider.swift"
+  : [1638360425, 263070106]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Jobs/AnimatedMoveViewJob.swift": [1638360425, 244115352]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Jobs/AnimatedViewPortJob.swift": [1638360425, 243774414]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Jobs/AnimatedZoomViewJob.swift": [1638360425, 242535114]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Jobs/MoveViewJob.swift": [1638360425, 243166923]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Jobs/ViewPortJob.swift": [1638360425, 242846965]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Jobs/ZoomViewJob.swift": [1638360425, 243443965]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Renderers/AxisRendererBase.swift": [1638360425, 207987785]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Renderers/BarChartRenderer.swift": [1638360425, 209928512]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Renderers/BarLineScatterCandleBubbleRenderer.swift"
+  : [1638360425, 210737943]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Renderers/BubbleChartRenderer.swift"
+  : [1638360425, 207158565]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Renderers/CandleStickChartRenderer.swift"
+  : [1638360425, 209609985]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Renderers/ChartDataRendererBase.swift"
+  : [1638360425, 208372116]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Renderers/CombinedChartRenderer.swift"
+  : [1638360425, 209326505]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Renderers/HorizontalBarChartRenderer.swift"
+  : [1638360425, 214566469]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Renderers/LegendRenderer.swift": [1638360425, 206480503]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Renderers/LineChartRenderer.swift"
+  : [1638360425, 207606315]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Renderers/LineRadarRenderer.swift"
+  : [1638360425, 210487842]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Renderers/LineScatterCandleRadarRenderer.swift"
+  : [1638360425, 216736793]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Renderers/PieChartRenderer.swift": [1638360425, 215821266]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Renderers/RadarChartRenderer.swift"
+  : [1638360425, 206121444]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Renderers/Renderer.swift": [1638360425, 216301441]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Renderers/Scatter/ChevronDownShapeRenderer.swift"
+  : [1638360425, 211978673]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Renderers/Scatter/ChevronUpShapeRenderer.swift"
+  : [1638360425, 213640451]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Renderers/Scatter/CircleShapeRenderer.swift"
+  : [1638360425, 212511539]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Renderers/Scatter/CrossShapeRenderer.swift"
+  : [1638360425, 212908267]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Renderers/Scatter/IShapeRenderer.swift"
+  : [1638360425, 212225198]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Renderers/Scatter/SquareShapeRenderer.swift"
+  : [1638360425, 211706638]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Renderers/Scatter/TriangleShapeRenderer.swift"
+  : [1638360425, 213279485]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Renderers/Scatter/XShapeRenderer.swift"
+  : [1638360425, 211397171]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Renderers/ScatterChartRenderer.swift"
+  : [1638360425, 209024429]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Renderers/XAxisRenderer.swift": [1638360425, 210236072]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Renderers/XAxisRendererHorizontalBarChart.swift"
+  : [1638360425, 214117527]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Renderers/XAxisRendererRadarChart.swift"
+  : [1638360425, 215013980]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Renderers/YAxisRenderer.swift": [1638360425, 208712577]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Renderers/YAxisRendererHorizontalBarChart.swift"
+  : [1638360425, 206777572]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Renderers/YAxisRendererRadarChart.swift"
+  : [1638360425, 215372085]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Utils/ChartColorTemplates.swift": [1638360425, 236011028]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Utils/ChartUtils.swift": [1638360425, 237265348]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Utils/Fill.swift": [1638360425, 232476711]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Utils/Platform+Accessibility.swift"
+  : [1638360425, 235167980]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Utils/Platform+Color.swift": [1638360425, 236852169]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Utils/Platform+Gestures.swift": [1638360425, 234295368]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Utils/Platform+Graphics.swift": [1638360425, 234728813]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Utils/Platform+Touch Handling.swift"
+  : [1638360425, 233376026]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Utils/Platform.swift": [1638360425, 235574245]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Utils/Transformer.swift": [1638360425, 232971429]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Utils/TransformerHorizontalBarChart.swift"
+  : [1638360425, 236453294]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Pods/Charts/Source/Charts/Utils/ViewPortHandler.swift": [1638360425, 233828544]

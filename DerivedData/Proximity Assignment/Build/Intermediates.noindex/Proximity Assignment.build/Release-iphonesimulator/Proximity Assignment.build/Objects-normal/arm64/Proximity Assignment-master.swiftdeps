@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)"
+options: "0a24e6677049e43ef8f6ed30b2757570fcb416454bb4732d8560698081b8df7f"
+build_start_time: [1638365981, 3049850]
+build_end_time: [1638365989, 160709857]
+inputs:
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Proximity Assignment/AppDelegate.swift": [1637692083, 463212251]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Proximity Assignment/Logic/AQIViewModal.swift": [1638365878, 336157798]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Proximity Assignment/Logic/DataManager.swift": [1638364103, 437977552]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Proximity Assignment/Modal/AqiInfo.swift": [1638361637, 86531162]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Proximity Assignment/SceneDelegate.swift": [1637692083, 480669021]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Proximity Assignment/View/AQICell.swift": [1638365279, 24722337]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Proximity Assignment/View/AQITableDataSource.swift": [1638365878, 318307638]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Proximity Assignment/View/AQITableDelegate.swift": [1637961012, 619240999]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Proximity Assignment/View/ViewController.swift": [1638360876, 451056480]

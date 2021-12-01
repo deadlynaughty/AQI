@@ -1,0 +1,2323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>01D2DF1D-F86E-4D07-A43C-C577F401343A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>01D2DF1D-F86E-4D07-A43C-C577F401343A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660081432.475775</real>
+			<key>timeStoppedRecording</key>
+			<real>660081503.04081297</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>01D2DF1D-F86E-4D07-A43C-C577F401343A</string>
+		</dict>
+		<key>027D56B6-6169-459B-B2A7-C2485F7D59C2</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>027D56B6-6169-459B-B2A7-C2485F7D59C2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660086478.06073201</real>
+			<key>timeStoppedRecording</key>
+			<real>660087045.15724897</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>027D56B6-6169-459B-B2A7-C2485F7D59C2</string>
+		</dict>
+		<key>03677BA8-3DE9-45AC-B20B-313084D3222F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>03677BA8-3DE9-45AC-B20B-313084D3222F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660081597.54341602</real>
+			<key>timeStoppedRecording</key>
+			<real>660081615.67316902</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>03677BA8-3DE9-45AC-B20B-313084D3222F</string>
+		</dict>
+		<key>043A4B91-B92F-4F57-8A9F-5A2D99331FF2</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>043A4B91-B92F-4F57-8A9F-5A2D99331FF2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660081815.77316594</real>
+			<key>timeStoppedRecording</key>
+			<real>660081877.49369502</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>043A4B91-B92F-4F57-8A9F-5A2D99331FF2</string>
+		</dict>
+		<key>0DDD84CD-A822-49F2-A436-5D7F6F0BB622</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>0DDD84CD-A822-49F2-A436-5D7F6F0BB622.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660080814.10868299</real>
+			<key>timeStoppedRecording</key>
+			<real>660081143.45574296</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>0DDD84CD-A822-49F2-A436-5D7F6F0BB622</string>
+		</dict>
+		<key>0FDD1015-5522-4BE4-AA68-F22F98134D29</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>0FDD1015-5522-4BE4-AA68-F22F98134D29.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660087048.75215006</real>
+			<key>timeStoppedRecording</key>
+			<real>660087157.523072</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>0FDD1015-5522-4BE4-AA68-F22F98134D29</string>
+		</dict>
+		<key>134ED9D3-356D-4B06-AD47-061B71B1D5BA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>134ED9D3-356D-4B06-AD47-061B71B1D5BA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660083425.63355803</real>
+			<key>timeStoppedRecording</key>
+			<real>660083454.24470496</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>134ED9D3-356D-4B06-AD47-061B71B1D5BA</string>
+		</dict>
+		<key>13C8AD50-2325-411F-9B2D-F2ADEF4B6B8A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>13C8AD50-2325-411F-9B2D-F2ADEF4B6B8A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660071464.75723302</real>
+			<key>timeStoppedRecording</key>
+			<real>660072969.649207</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>13C8AD50-2325-411F-9B2D-F2ADEF4B6B8A</string>
+		</dict>
+		<key>1643D3FA-96EC-4C15-A508-42F653EDC2FE</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>1643D3FA-96EC-4C15-A508-42F653EDC2FE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660081271.52725506</real>
+			<key>timeStoppedRecording</key>
+			<real>660081303.34280705</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>1643D3FA-96EC-4C15-A508-42F653EDC2FE</string>
+		</dict>
+		<key>16905FA4-70DC-426A-9A53-2556427AB5D2</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>16905FA4-70DC-426A-9A53-2556427AB5D2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660078693.18244898</real>
+			<key>timeStoppedRecording</key>
+			<real>660078746.39786899</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>16905FA4-70DC-426A-9A53-2556427AB5D2</string>
+		</dict>
+		<key>1D66CBF4-6DA9-4908-ABF6-905E4E153387</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>1D66CBF4-6DA9-4908-ABF6-905E4E153387.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660078553.42616701</real>
+			<key>timeStoppedRecording</key>
+			<real>660078678.28276503</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>1D66CBF4-6DA9-4908-ABF6-905E4E153387</string>
+		</dict>
+		<key>1E330FAC-4C8B-4175-9D0E-EA322B06B782</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>1E330FAC-4C8B-4175-9D0E-EA322B06B782.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660082701.11740696</real>
+			<key>timeStoppedRecording</key>
+			<real>660083007.20452499</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>1E330FAC-4C8B-4175-9D0E-EA322B06B782</string>
+		</dict>
+		<key>29665E95-EA1E-47E8-8884-1E7A65C034E3</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>29665E95-EA1E-47E8-8884-1E7A65C034E3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660085370.11419499</real>
+			<key>timeStoppedRecording</key>
+			<real>660085510.84788895</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>29665E95-EA1E-47E8-8884-1E7A65C034E3</string>
+		</dict>
+		<key>383A322E-A358-4667-8BEF-3DAE53719DEF</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>383A322E-A358-4667-8BEF-3DAE53719DEF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660084657.07839704</real>
+			<key>timeStoppedRecording</key>
+			<real>660084835.57541502</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>383A322E-A358-4667-8BEF-3DAE53719DEF</string>
+		</dict>
+		<key>3A36EDF4-7FA3-431E-82B3-C6F305D85F54</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>3A36EDF4-7FA3-431E-82B3-C6F305D85F54.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660087334.23868096</real>
+			<key>timeStoppedRecording</key>
+			<real>660087347.27033603</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>3A36EDF4-7FA3-431E-82B3-C6F305D85F54</string>
+		</dict>
+		<key>3AF26BC9-5250-4162-8A8D-4BC8661FAF37</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>3AF26BC9-5250-4162-8A8D-4BC8661FAF37.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660080414.85749197</real>
+			<key>timeStoppedRecording</key>
+			<real>660080459.48630095</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>3AF26BC9-5250-4162-8A8D-4BC8661FAF37</string>
+		</dict>
+		<key>3E9D7889-C79A-4621-B66B-21FD8B64F17B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>3E9D7889-C79A-4621-B66B-21FD8B64F17B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660077797.48898005</real>
+			<key>timeStoppedRecording</key>
+			<real>660077860.167346</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>3E9D7889-C79A-4621-B66B-21FD8B64F17B</string>
+		</dict>
+		<key>3EE82F48-79D5-475D-AA1F-AAFFE164381A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>3EE82F48-79D5-475D-AA1F-AAFFE164381A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660083387.53919601</real>
+			<key>timeStoppedRecording</key>
+			<real>660083424.54056299</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>3EE82F48-79D5-475D-AA1F-AAFFE164381A</string>
+		</dict>
+		<key>46EDAC7D-C23E-49D3-A9FE-D47951FB890A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>46EDAC7D-C23E-49D3-A9FE-D47951FB890A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660082270.62226796</real>
+			<key>timeStoppedRecording</key>
+			<real>660082351.19349694</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>46EDAC7D-C23E-49D3-A9FE-D47951FB890A</string>
+		</dict>
+		<key>4A04169E-EFB9-492F-9F5F-661B9ACCB048</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>4A04169E-EFB9-492F-9F5F-661B9ACCB048.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660078239.10193503</real>
+			<key>timeStoppedRecording</key>
+			<real>660078364.70349598</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>4A04169E-EFB9-492F-9F5F-661B9ACCB048</string>
+		</dict>
+		<key>4A72FE29-AA31-44F3-BF7F-AAA4FB64B1D1</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>4A72FE29-AA31-44F3-BF7F-AAA4FB64B1D1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660081571.16347301</real>
+			<key>timeStoppedRecording</key>
+			<real>660081595.63514996</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>4A72FE29-AA31-44F3-BF7F-AAA4FB64B1D1</string>
+		</dict>
+		<key>501BCF1B-2FE8-4F91-A1CB-09AF0137BE81</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>501BCF1B-2FE8-4F91-A1CB-09AF0137BE81.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660081305.434466</real>
+			<key>timeStoppedRecording</key>
+			<real>660081430.44696701</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>501BCF1B-2FE8-4F91-A1CB-09AF0137BE81</string>
+		</dict>
+		<key>543BA678-60D7-422E-9C62-5F6D48883CB3</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>543BA678-60D7-422E-9C62-5F6D48883CB3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660087349.11344695</real>
+			<key>timeStoppedRecording</key>
+			<real>660087446.77380896</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>543BA678-60D7-422E-9C62-5F6D48883CB3</string>
+		</dict>
+		<key>570D63EE-B05C-41DC-BEBD-619A1BBEF794</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>570D63EE-B05C-41DC-BEBD-619A1BBEF794.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660078112.01271498</real>
+			<key>timeStoppedRecording</key>
+			<real>660078235.616956</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>570D63EE-B05C-41DC-BEBD-619A1BBEF794</string>
+		</dict>
+		<key>5AF99635-E93D-4392-8CBB-34FAC9D3606E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5AF99635-E93D-4392-8CBB-34FAC9D3606E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660079679.54540598</real>
+			<key>timeStoppedRecording</key>
+			<real>660079707.99986994</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>5AF99635-E93D-4392-8CBB-34FAC9D3606E</string>
+		</dict>
+		<key>5AF9E85C-97BA-4171-A285-55959C7F86A8</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5AF9E85C-97BA-4171-A285-55959C7F86A8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660084242.297261</real>
+			<key>timeStoppedRecording</key>
+			<real>660084386.43794894</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>5AF9E85C-97BA-4171-A285-55959C7F86A8</string>
+		</dict>
+		<key>5DF7349F-7FAE-4078-9A24-60D47FABA784</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5DF7349F-7FAE-4078-9A24-60D47FABA784.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660084009.51771903</real>
+			<key>timeStoppedRecording</key>
+			<real>660084119.78489995</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>5DF7349F-7FAE-4078-9A24-60D47FABA784</string>
+		</dict>
+		<key>66514DFA-FB24-45CD-B681-BD8FA6103B34</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>66514DFA-FB24-45CD-B681-BD8FA6103B34.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660084132.216241</real>
+			<key>timeStoppedRecording</key>
+			<real>660084227.68322504</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>66514DFA-FB24-45CD-B681-BD8FA6103B34</string>
+		</dict>
+		<key>676BD056-365B-4FA8-A633-B2C1F8AC6C55</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>676BD056-365B-4FA8-A633-B2C1F8AC6C55.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660082636.35971498</real>
+			<key>timeStoppedRecording</key>
+			<real>660082699.661731</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>676BD056-365B-4FA8-A633-B2C1F8AC6C55</string>
+		</dict>
+		<key>6940E596-75F6-46BD-9FCD-8CA9F16F407C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>6940E596-75F6-46BD-9FCD-8CA9F16F407C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660084494.09648597</real>
+			<key>timeStoppedRecording</key>
+			<real>660084657.12056994</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>6940E596-75F6-46BD-9FCD-8CA9F16F407C</string>
+		</dict>
+		<key>6E8D1E0D-634C-456C-A544-10190E5ADFE9</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>6E8D1E0D-634C-456C-A544-10190E5ADFE9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660079827.16392696</real>
+			<key>timeStoppedRecording</key>
+			<real>660080267.84422505</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>6E8D1E0D-634C-456C-A544-10190E5ADFE9</string>
+		</dict>
+		<key>6F219351-7710-4468-ADA0-0253C96DE8B7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>6F219351-7710-4468-ADA0-0253C96DE8B7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660080326.40339696</real>
+			<key>timeStoppedRecording</key>
+			<real>660080387.95555496</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>6F219351-7710-4468-ADA0-0253C96DE8B7</string>
+		</dict>
+		<key>7093C274-057E-4AB4-B64C-DDCE75490AEE</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7093C274-057E-4AB4-B64C-DDCE75490AEE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660078750.22398698</real>
+			<key>timeStoppedRecording</key>
+			<real>660078795.85040605</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>7093C274-057E-4AB4-B64C-DDCE75490AEE</string>
+		</dict>
+		<key>70E9F8B7-3A6B-4D87-AAB2-F7CECD886BE7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>70E9F8B7-3A6B-4D87-AAB2-F7CECD886BE7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660086036.233078</real>
+			<key>timeStoppedRecording</key>
+			<real>660086157.77900803</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>70E9F8B7-3A6B-4D87-AAB2-F7CECD886BE7</string>
+		</dict>
+		<key>7179E7AB-66EF-475B-809D-3A933C5D3780</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7179E7AB-66EF-475B-809D-3A933C5D3780.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660084392.06385303</real>
+			<key>timeStoppedRecording</key>
+			<real>660084491.05009496</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>7179E7AB-66EF-475B-809D-3A933C5D3780</string>
+		</dict>
+		<key>773BC8A9-3813-427F-AAE8-AF9E4A8A4EFE</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>773BC8A9-3813-427F-AAE8-AF9E4A8A4EFE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660082190.22630703</real>
+			<key>timeStoppedRecording</key>
+			<real>660082219.93916595</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>773BC8A9-3813-427F-AAE8-AF9E4A8A4EFE</string>
+		</dict>
+		<key>79779A80-6150-4CB3-A270-D46BDBF4B360</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>79779A80-6150-4CB3-A270-D46BDBF4B360.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660078798.69368601</real>
+			<key>timeStoppedRecording</key>
+			<real>660079014.38307703</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>79779A80-6150-4CB3-A270-D46BDBF4B360</string>
+		</dict>
+		<key>7FC11A5F-F77E-4E73-8ABF-FBACC59C4997</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7FC11A5F-F77E-4E73-8ABF-FBACC59C4997.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660083062.42116106</real>
+			<key>timeStoppedRecording</key>
+			<real>660083067.85637701</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>7FC11A5F-F77E-4E73-8ABF-FBACC59C4997</string>
+		</dict>
+		<key>8043A901-24F8-4120-AC13-429D0AC0CC06</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8043A901-24F8-4120-AC13-429D0AC0CC06.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660079222.60074401</real>
+			<key>timeStoppedRecording</key>
+			<real>660079580.73334503</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>8043A901-24F8-4120-AC13-429D0AC0CC06</string>
+		</dict>
+		<key>817D8FB9-9676-4904-9609-6ADB150A7228</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>817D8FB9-9676-4904-9609-6ADB150A7228.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660087195.64067602</real>
+			<key>timeStoppedRecording</key>
+			<real>660087321.20099604</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>817D8FB9-9676-4904-9609-6ADB150A7228</string>
+		</dict>
+		<key>8B4653A2-7C14-48CA-AC6E-338051C7E5C1</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8B4653A2-7C14-48CA-AC6E-338051C7E5C1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660079170.66061997</real>
+			<key>timeStoppedRecording</key>
+			<real>660079220.04206705</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>8B4653A2-7C14-48CA-AC6E-338051C7E5C1</string>
+		</dict>
+		<key>8BEEC094-F4A7-4B54-92AD-1D5F41EF0F95</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8BEEC094-F4A7-4B54-92AD-1D5F41EF0F95.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660077871.57070899</real>
+			<key>timeStoppedRecording</key>
+			<real>660078103.82506096</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>8BEEC094-F4A7-4B54-92AD-1D5F41EF0F95</string>
+		</dict>
+		<key>8D4E46EA-918E-4156-9DE2-9AE6132CC01F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8D4E46EA-918E-4156-9DE2-9AE6132CC01F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660083893.211362</real>
+			<key>timeStoppedRecording</key>
+			<real>660083971.63991499</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>8D4E46EA-918E-4156-9DE2-9AE6132CC01F</string>
+		</dict>
+		<key>8E46B826-226F-462E-84D0-2759CAB92CB9</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8E46B826-226F-462E-84D0-2759CAB92CB9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660080484.24576199</real>
+			<key>timeStoppedRecording</key>
+			<real>660080531.33355498</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>8E46B826-226F-462E-84D0-2759CAB92CB9</string>
+		</dict>
+		<key>94500221-5CEC-4D7D-9542-9DB8336C2870</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>94500221-5CEC-4D7D-9542-9DB8336C2870.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660079710.13355196</real>
+			<key>timeStoppedRecording</key>
+			<real>660079742.12931001</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>94500221-5CEC-4D7D-9542-9DB8336C2870</string>
+		</dict>
+		<key>994B6360-FAC6-471F-8B57-915FA6C8BA8C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>994B6360-FAC6-471F-8B57-915FA6C8BA8C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660083541.97601402</real>
+			<key>timeStoppedRecording</key>
+			<real>660083795.28455305</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>994B6360-FAC6-471F-8B57-915FA6C8BA8C</string>
+		</dict>
+		<key>99957E48-8E1D-407D-A5E3-A4ACDD66188D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>99957E48-8E1D-407D-A5E3-A4ACDD66188D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660079744.22446203</real>
+			<key>timeStoppedRecording</key>
+			<real>660079824.87966299</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>99957E48-8E1D-407D-A5E3-A4ACDD66188D</string>
+		</dict>
+		<key>9A47AFC2-80C2-48B8-B4B7-CBB1AA213B5C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9A47AFC2-80C2-48B8-B4B7-CBB1AA213B5C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660085084.12256896</real>
+			<key>timeStoppedRecording</key>
+			<real>660085102.63839197</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>9A47AFC2-80C2-48B8-B4B7-CBB1AA213B5C</string>
+		</dict>
+		<key>9F19C980-4A6C-4517-AC24-8F0411449E57</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9F19C980-4A6C-4517-AC24-8F0411449E57.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660080462.63583004</real>
+			<key>timeStoppedRecording</key>
+			<real>660080482.41655195</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>9F19C980-4A6C-4517-AC24-8F0411449E57</string>
+		</dict>
+		<key>A0E69C17-9209-4202-84B9-7EC0516CAD1C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A0E69C17-9209-4202-84B9-7EC0516CAD1C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660081659.33887005</real>
+			<key>timeStoppedRecording</key>
+			<real>660081814.18190503</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>A0E69C17-9209-4202-84B9-7EC0516CAD1C</string>
+		</dict>
+		<key>A3AECF43-3CB1-45C2-9AA8-614B62ABCFAD</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A3AECF43-3CB1-45C2-9AA8-614B62ABCFAD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660086159.745754</real>
+			<key>timeStoppedRecording</key>
+			<real>660086437.29181504</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>A3AECF43-3CB1-45C2-9AA8-614B62ABCFAD</string>
+		</dict>
+		<key>A5CBA680-D8B8-4614-ABEB-CD2DFF3F8267</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A5CBA680-D8B8-4614-ABEB-CD2DFF3F8267.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660084878.243891</real>
+			<key>timeStoppedRecording</key>
+			<real>660085047.16858399</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>A5CBA680-D8B8-4614-ABEB-CD2DFF3F8267</string>
+		</dict>
+		<key>B13226E0-9FC0-4CFF-A25C-A441C0707FA9</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B13226E0-9FC0-4CFF-A25C-A441C0707FA9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660084838.84988403</real>
+			<key>timeStoppedRecording</key>
+			<real>660084876.04202402</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>B13226E0-9FC0-4CFF-A25C-A441C0707FA9</string>
+		</dict>
+		<key>B2A58051-D432-44A5-8246-580B4A0ACA0C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B2A58051-D432-44A5-8246-580B4A0ACA0C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660085510.80525899</real>
+			<key>timeStoppedRecording</key>
+			<real>660085785.16597497</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>B2A58051-D432-44A5-8246-580B4A0ACA0C</string>
+		</dict>
+		<key>C0F69D41-A7E3-40DA-A2A4-63EFA9DF92F8</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C0F69D41-A7E3-40DA-A2A4-63EFA9DF92F8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660083454.170766</real>
+			<key>timeStoppedRecording</key>
+			<real>660083538.57966304</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>C0F69D41-A7E3-40DA-A2A4-63EFA9DF92F8</string>
+		</dict>
+		<key>C101ADE9-28E7-4893-A023-0EA81E994E68</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C101ADE9-28E7-4893-A023-0EA81E994E68.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660081617.73796499</real>
+			<key>timeStoppedRecording</key>
+			<real>660081647.62961304</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>C101ADE9-28E7-4893-A023-0EA81E994E68</string>
+		</dict>
+		<key>CA4620FC-8785-4EDA-A7BE-48AEE81A7FA4</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>CA4620FC-8785-4EDA-A7BE-48AEE81A7FA4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660082399.91231799</real>
+			<key>timeStoppedRecording</key>
+			<real>660082430.85123897</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>CA4620FC-8785-4EDA-A7BE-48AEE81A7FA4</string>
+		</dict>
+		<key>CB2642A0-5893-4CEE-B350-3E3F1B7FADE1</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>CB2642A0-5893-4CEE-B350-3E3F1B7FADE1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660082015.25187397</real>
+			<key>timeStoppedRecording</key>
+			<real>660082187.22068095</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>CB2642A0-5893-4CEE-B350-3E3F1B7FADE1</string>
+		</dict>
+		<key>D483A8A3-F29B-4817-9921-51C46268DF16</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D483A8A3-F29B-4817-9921-51C46268DF16.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660081881.51908004</real>
+			<key>timeStoppedRecording</key>
+			<real>660082012.75651896</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>D483A8A3-F29B-4817-9921-51C46268DF16</string>
+		</dict>
+		<key>D674B1F2-8B66-45AA-8CB8-8BD9D0AA1523</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D674B1F2-8B66-45AA-8CB8-8BD9D0AA1523.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660077677.727157</real>
+			<key>timeStoppedRecording</key>
+			<real>660077796.80170703</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>D674B1F2-8B66-45AA-8CB8-8BD9D0AA1523</string>
+		</dict>
+		<key>DBAF0F0E-E8CE-419D-8CD9-A7F6725B477C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>DBAF0F0E-E8CE-419D-8CD9-A7F6725B477C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660083973.48802102</real>
+			<key>timeStoppedRecording</key>
+			<real>660084007.92933905</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>DBAF0F0E-E8CE-419D-8CD9-A7F6725B477C</string>
+		</dict>
+		<key>E5B3179F-D924-4505-94D5-4EB1A8253FE2</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E5B3179F-D924-4505-94D5-4EB1A8253FE2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660082445.54088104</real>
+			<key>timeStoppedRecording</key>
+			<real>660082634.24302101</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>E5B3179F-D924-4505-94D5-4EB1A8253FE2</string>
+		</dict>
+		<key>E92B3E3B-F72E-452A-8488-C0D152081C8B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E92B3E3B-F72E-452A-8488-C0D152081C8B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660084121.36059904</real>
+			<key>timeStoppedRecording</key>
+			<real>660084131.79762805</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>E92B3E3B-F72E-452A-8488-C0D152081C8B</string>
+		</dict>
+		<key>EC580831-86AB-4290-909F-9146EC2240B3</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>EC580831-86AB-4290-909F-9146EC2240B3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660081649.48136699</real>
+			<key>timeStoppedRecording</key>
+			<real>660081657.71272397</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>EC580831-86AB-4290-909F-9146EC2240B3</string>
+		</dict>
+		<key>EDF40978-A3B4-4D0E-ADA9-2DDB238ABD6C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>EDF40978-A3B4-4D0E-ADA9-2DDB238ABD6C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660080389.85099995</real>
+			<key>timeStoppedRecording</key>
+			<real>660080412.83805394</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>EDF40978-A3B4-4D0E-ADA9-2DDB238ABD6C</string>
+		</dict>
+		<key>F1CEA0DC-E669-4F81-9B3E-1B55402BA1AA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F1CEA0DC-E669-4F81-9B3E-1B55402BA1AA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660080533.49293697</real>
+			<key>timeStoppedRecording</key>
+			<real>660080810.27430606</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>F1CEA0DC-E669-4F81-9B3E-1B55402BA1AA</string>
+		</dict>
+		<key>F84363C0-2036-4649-93D4-05F4A73B1486</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F84363C0-2036-4649-93D4-05F4A73B1486.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660086440.26789904</real>
+			<key>timeStoppedRecording</key>
+			<real>660086475.91812599</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>F84363C0-2036-4649-93D4-05F4A73B1486</string>
+		</dict>
+		<key>FE88FA85-1499-4B85-B74D-EDCD0FAE9FCF</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>FE88FA85-1499-4B85-B74D-EDCD0FAE9FCF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Proximity Assignment project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Proximity Assignment</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Proximity Assignment</string>
+			<key>timeStartedRecording</key>
+			<real>660078369.59726703</real>
+			<key>timeStoppedRecording</key>
+			<real>660078537.45749998</real>
+			<key>title</key>
+			<string>Run Proximity Assignment</string>
+			<key>uniqueIdentifier</key>
+			<string>FE88FA85-1499-4B85-B74D-EDCD0FAE9FCF</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

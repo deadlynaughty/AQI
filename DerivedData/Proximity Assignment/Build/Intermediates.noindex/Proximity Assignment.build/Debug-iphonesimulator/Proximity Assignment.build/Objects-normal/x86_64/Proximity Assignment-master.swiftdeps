@@ -1,0 +1,24 @@
+version: "Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)"
+options: "539510f7600ab112547b2970970b8ff5e6c097b7cf43e9236091f6bd3bf13cfc"
+build_start_time: [1638394547, 422242164]
+build_end_time: [1638394548, 454344987]
+inputs:
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Proximity Assignment/AQI Chart/Modal/CityAQI.swift": [1638393180, 609242439]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Proximity Assignment/AQI Chart/View/AQIChart.swift": [1638392075, 816880702]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Proximity Assignment/AQI Chart/View/CityAQIController.swift"
+  : [1638394392, 490185499]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Proximity Assignment/AQI Chart/ViewModal/CityViewModal.swift"
+  : [1638394357, 316834926]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Proximity Assignment/AQI Table/Modal/AqiInfo.swift": [1638368560, 744150638]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Proximity Assignment/AQI Table/View/AQICell.swift": [1638368560, 722692012]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Proximity Assignment/AQI Table/View/AQITableDataSource.swift"
+  : [1638369579, 835507392]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Proximity Assignment/AQI Table/View/AQITableDelegate.swift": [1638369579, 804788112]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Proximity Assignment/AQI Table/View/AQIViewController.swift"
+  : [1638394392, 465398311]
+  ? "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Proximity Assignment/AQI Table/ViewModal/AQIViewModal.swift"
+  : [1638394357, 342191934]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Proximity Assignment/AppDelegate.swift": [1637692083, 463212251]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Proximity Assignment/Helper/DataManager.swift": [1638394547, 64394712]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Proximity Assignment/Helper/Utility.swift": [1638368560, 675473928]
+  "/Users/ameyvikkramtiwari/Documents/Code/practise/Proximity Assignment/Proximity Assignment/SceneDelegate.swift": [1637692083, 480669021]
