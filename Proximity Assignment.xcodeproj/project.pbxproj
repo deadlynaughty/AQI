@@ -139,8 +139,8 @@
 			children = (
 				8A21719F274D6A3300A2D83D /* AppDelegate.swift */,
 				8A2171A1274D6A3300A2D83D /* SceneDelegate.swift */,
-				8ACB21162757B94200D1A723 /* AQI Chart */,
 				8ACB21132757B8D600D1A723 /* AQI Table */,
+				8ACB21162757B94200D1A723 /* AQI Chart */,
 				8AAC48C72752BB5D0056D534 /* Helper */,
 				8A2171A5274D6A3300A2D83D /* Main.storyboard */,
 				8A2171A8274D6A3700A2D83D /* Assets.xcassets */,

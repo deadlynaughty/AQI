@@ -2760,6 +2760,40 @@
 			<key>uniqueIdentifier</key>
 			<string>7F93580F-E9E7-44EE-90CE-8BE2E63D533C</string>
 		</dict>
+		<key>815ADBD8-DB08-4848-A7E9-1B7B6897A6CB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>815ADBD8-DB08-4848-A7E9-1B7B6897A6CB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Proximity Assignment Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>660095622.64949596</real>
+			<key>timeStoppedRecording</key>
+			<real>660095623.08087397</real>
+			<key>title</key>
+			<string>Proximity Assignment Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>815ADBD8-DB08-4848-A7E9-1B7B6897A6CB</string>
+		</dict>
 		<key>81FD06EE-BE1D-48E5-85E7-C49001AB5334</key>
 		<dict>
 			<key>className</key>
@@ -3474,6 +3508,40 @@
 			<key>uniqueIdentifier</key>
 			<string>9C54188E-608C-4E50-ACE0-582AB7DC3F92</string>
 		</dict>
+		<key>9EBA6F5D-CE12-4062-8344-7E82A3C24813</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>9EBA6F5D-CE12-4062-8344-7E82A3C24813.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Proximity Assignment Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>660093637.31741595</real>
+			<key>timeStoppedRecording</key>
+			<real>660093649.00676203</real>
+			<key>title</key>
+			<string>Proximity Assignment Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>9EBA6F5D-CE12-4062-8344-7E82A3C24813</string>
+		</dict>
 		<key>9ED643AD-55A8-47C6-9106-0372502BF60A</key>
 		<dict>
 			<key>className</key>
@@ -3915,6 +3983,40 @@
 			<string>Proximity Assignment Build Preparation</string>
 			<key>uniqueIdentifier</key>
 			<string>ACE112C1-8631-4E60-A51E-A695A1599D66</string>
+		</dict>
+		<key>B23F8C0B-7284-410D-849E-1B765D1A1BEA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>B23F8C0B-7284-410D-849E-1B765D1A1BEA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Workspace Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>660093637.283777</real>
+			<key>timeStoppedRecording</key>
+			<real>660093649.76101303</real>
+			<key>title</key>
+			<string>Workspace Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>B23F8C0B-7284-410D-849E-1B765D1A1BEA</string>
 		</dict>
 		<key>B4307907-A562-480A-AEBA-02746BC36FA9</key>
 		<dict>
@@ -4901,6 +5003,40 @@
 			<string>Proximity Assignment Build Preparation</string>
 			<key>uniqueIdentifier</key>
 			<string>D789E52D-9A62-4609-986E-EEB351B150FE</string>
+		</dict>
+		<key>D7CC3E9B-8040-4CAD-9F68-82EA1CD95834</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>D7CC3E9B-8040-4CAD-9F68-82EA1CD95834.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Proximity Assignment Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>660093649.01890099</real>
+			<key>timeStoppedRecording</key>
+			<real>660093649.50425005</real>
+			<key>title</key>
+			<string>Proximity Assignment Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>D7CC3E9B-8040-4CAD-9F68-82EA1CD95834</string>
 		</dict>
 		<key>D839756F-FE38-4A08-AD05-37FB5E437434</key>
 		<dict>
